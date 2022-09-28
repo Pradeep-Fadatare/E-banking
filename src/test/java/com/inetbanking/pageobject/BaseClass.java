@@ -119,6 +119,7 @@ public class BaseClass {
     public void teardown(){
         driver.quit();
         }
+        //Quiting The browser
     }
 
 
