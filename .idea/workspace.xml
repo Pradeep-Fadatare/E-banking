@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="232dc139-cc35-41ca-bcf8-1df897e7e110" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageobject/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageobject/BaseClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
   <component name="ProjectId" id="2F4NsyqPqLcOwc5XxSzFP5gPKxs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Driver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/E-banking" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -229,7 +230,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
